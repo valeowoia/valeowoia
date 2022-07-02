@@ -15,7 +15,6 @@ I'm a m3anra1n, PHP and Web developer, DevOps, and a musician.
 ![React](https://rf0x3d.su/maybe_assets/react.svg)
 ![HTML](https://rf0x3d.su/maybe_assets/language-html5.svg)
 ![CSS](https://rf0x3d.su/maybe_assets/language-css3.svg)
-![PHP](https://rf0x3d.su/maybe_assets/language-css3.svg)
 
 
 ## ![ladno](https://rf0x3d.su/maybe_assets/statistics_outline_28.svg) Github Stats
