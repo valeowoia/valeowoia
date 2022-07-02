@@ -18,5 +18,5 @@ I'm a m3anra1n, PHP and Web developer, DevOps, and a musician.
 
 
 ## ![ladno](https://rf0x3d.su/maybe_assets/statistics_outline_28.svg) Github Stats
-![stats2](https://komarev.com/ghpvc/?username=m3anra1n&style=flat)
-![Stats](https://github-readme-stats.vercel.app/api?username=m3anra1n&show_icons=true)
+![stats2](https://komarev.com/ghpvc/?username=initniko&style=flat)
+![Stats](https://github-readme-stats.vercel.app/api?username=initniko&show_icons=true)
