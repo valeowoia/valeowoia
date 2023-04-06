@@ -11,7 +11,7 @@ I'm a m3anra1n, PHP and Web developer, DevOps, and a musician.
 
 ## ![ladno](https://rf0x3d.su/maybe_assets/airplay_outline_28.svg) My knowledge
 ![jQuery](https://rf0x3d.su/maybe_assets/nodejs.svg)
-![Python](files.meanly.space/repo/gpg/python.svg)
+![Python](https://files.meanly.space/repo/gpg/python.svg)
 ![Golang](https://rf0x3d.su/maybe_assets/language-go.svg)
 ![React](https://rf0x3d.su/maybe_assets/react.svg)
 ![HTML](https://rf0x3d.su/maybe_assets/language-html5.svg)
