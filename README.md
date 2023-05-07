@@ -5,7 +5,7 @@ I'm a Lera, also well-known as meanly. I'm smth kinda PHP developer, DevOps and 
 ## ![ladno](https://rf0x3d.su/maybe_assets/computer_outline_28.svg) Resources
   [![Website](https://rf0x3d.su/maybe_assets/globe_outline_28.svg)](https://meanly.wtf)
   [![Donate](https://rf0x3d.su/maybe_assets/money_transfer_outline_28.svg)](https://meanly.wtf/)
-  [![VK](https://rf0x3d.su/maybe_assets/logo_vk_outline_28.svg)](https://vk.com/meanwhilerain)
+  [![VK](https://rf0x3d.su/maybe_assets/logo_vk_outline_28.svg)](https://vk.com/m3anly)
   [![Instagram](https://rf0x3d.su/maybe_assets/story_outline_28.svg)](https://instagram.com/meanwhile.rain)
   [![Telegram](https://rf0x3d.su/maybe_assets/location_outline_28.svg)](https://t.me/escapefrompol)
 
