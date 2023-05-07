@@ -1,5 +1,5 @@
 ## 👋 Hi there!
-I'm a m3anra1n, PHP and Web developer, DevOps, and a musician.
+I'm a Lera, also well-known as meanly. I'm smth kinda PHP developer, DevOps and cute stray catgirl .
 
 
 ## ![ladno](https://rf0x3d.su/maybe_assets/computer_outline_28.svg) Resources
