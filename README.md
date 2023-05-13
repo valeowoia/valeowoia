@@ -19,6 +19,6 @@ I'm a Lera, also well-known as meanly. I'm smth kinda PHP developer, DevOps and 
 
 
 ## ![ladno](https://rf0x3d.su/maybe_assets/statistics_outline_28.svg) Github Stats
-![stats2](https://komarev.com/ghpvc/?username=m3anly&style=flat)
+![stats2](https://komarev.com/ghpvc/?username=valeowioa&style=flat)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=m3anly&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=valeowoia&show_icons=true)
