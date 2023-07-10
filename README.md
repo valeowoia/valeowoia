@@ -7,7 +7,7 @@ I'm a Lera, also well-known as meanly. I'm a smth kinda PHP developer, DevOps, a
   [![Donate](https://rf0x3d.su/maybe_assets/money_transfer_outline_28.svg)](https://uwu.waw.pl/)
   [![VK](https://rf0x3d.su/maybe_assets/logo_vk_outline_28.svg)](https://vk.com/m3anly)
   [![Instagram](https://rf0x3d.su/maybe_assets/story_outline_28.svg)](https://instagram.com/autofillatio)
-  [![Telegram](https://rf0x3d.su/maybe_assets/location_outline_28.svg)](https://t.me/m3anlinks)
+  [![Telegram](https://rf0x3d.su/maybe_assets/location_outline_28.svg)](https://t.me/m3anly)
 
 ## ![ladno](https://rf0x3d.su/maybe_assets/airplay_outline_28.svg) My knowledge
 ![jQuery](https://rf0x3d.su/maybe_assets/nodejs.svg)
