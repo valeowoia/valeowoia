@@ -18,7 +18,8 @@ I'm a Lera, also well-known as meanly. I'm smth kinda PHP developer, DevOps and 
 ![CSS](https://rf0x3d.su/maybe_assets/language-css3.svg)
 
 
-## ![ladno](https://rf0x3d.su/maybe_assets/statistics_outline_28.svg) Github Stats
+## ![ladno](https://rf0x3d.su/maybe_assets/statistics_outline_28.svg) Github and Wakatime Stats
 ![stats2](https://komarev.com/ghpvc/?username=valeowioa&style=flat)
+![stats3](https://wakatime.com/badge/user/faa17ad9-04c9-4a91-a24c-050d3b3ca159.svg)](https://wakatime.com/@faa17ad9-04c9-4a91-a24c-050d3b3ca159)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=valeowoia&show_icons=true)
