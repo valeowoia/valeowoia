@@ -1,5 +1,5 @@
 ## 👋 Hi there!
-I'm a Lera, also well-known as meanly. I'm smth kinda PHP developer, DevOps and cute stray catgirl .
+I'm a Lera, also well-known as meanly. I'm a smth kinda PHP developer, DevOps, and a cute stray catgirl.
 
 
 ## ![ladno](https://rf0x3d.su/maybe_assets/computer_outline_28.svg) Resources
@@ -20,6 +20,6 @@ I'm a Lera, also well-known as meanly. I'm smth kinda PHP developer, DevOps and 
 
 ## ![ladno](https://rf0x3d.su/maybe_assets/statistics_outline_28.svg) Github and Wakatime Stats
 ![stats2](https://komarev.com/ghpvc/?username=valeowioa&style=flat)
-![stats3](https://wakatime.com/badge/user/faa17ad9-04c9-4a91-a24c-050d3b3ca159.svg)]
+![stats3](https://wakatime.com/badge/user/faa17ad9-04c9-4a91-a24c-050d3b3ca159.svg)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=valeowoia&show_icons=true)
