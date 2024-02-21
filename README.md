@@ -6,7 +6,7 @@ I'm a Tenji, also known as valerie. I'm a smth kinda PHP developer, DevOps, and 
   [![Website](https://rf0x3d.su/maybe_assets/globe_outline_28.svg)](https://uwu.waw.pl)
   [![Donate](https://rf0x3d.su/maybe_assets/money_transfer_outline_28.svg)](https://uwu.waw.pl/)
   [![VK](https://rf0x3d.su/maybe_assets/logo_vk_outline_28.svg)](https://vk.com/m3anly)
-  [![Instagram](https://rf0x3d.su/maybe_assets/story_outline_28.svg)](https://instagram.com/autofillatio)
+  [![Instagram](https://rf0x3d.su/maybe_assets/story_outline_28.svg)](https://instagram.com/valeowoia)
   [![Telegram](https://rf0x3d.su/maybe_assets/location_outline_28.svg)](https://t.me/m3anly)
 
 ## ![ladno](https://rf0x3d.su/maybe_assets/airplay_outline_28.svg) My knowledge
