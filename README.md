@@ -1,5 +1,5 @@
 ## 👋 Hi there!
-I'm a Tenji, also known as valerie. I'm a smth kinda PHP developer, DevOps, and a cute stray catgirl (maybe).
+I'm a Tenji, also known as valerie. I'm a smth kinda PHP developer, DevOps, and a cute stray cat████ (maybe).
 
 
 ## ![ladno](https://rf0x3d.su/maybe_assets/computer_outline_28.svg) Resources
