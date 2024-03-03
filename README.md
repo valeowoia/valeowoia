@@ -11,6 +11,7 @@ I'm a Tenji, also known as valerie. I'm a smth kinda PHP developer, DevOps, and 
 
 ## ![ladno](https://rf0x3d.su/maybe_assets/statistics_outline_28.svg) Github and Wakatime Stats
 ![](https://count.getloli.com/get/@valeowoia?theme=rule34)
+
 [![wakatime](https://wakatime.com/badge/user/faa17ad9-04c9-4a91-a24c-050d3b3ca159.svg)](https://wakatime.com/@faa17ad9-04c9-4a91-a24c-050d3b3ca159)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=valeowoia&show_icons=true)
