@@ -10,8 +10,7 @@ I'm a Tenji, also known as valerie. I'm a smth kinda PHP developer, DevOps, and 
   [![Telegram](https://rf0x3d.su/maybe_assets/location_outline_28.svg)](https://t.me/m3anly)
 
 ## ![ladno](https://rf0x3d.su/maybe_assets/statistics_outline_28.svg) Github and Wakatime Stats
-![stats2](https://komarev.com/ghpvc/?username=valeowioa&style=flat)
-[![wakatime](https://wakatime.com/badge/user/faa17ad9-04c9-4a91-a24c-050d3b3ca159.svg)](https://wakatime.com/@faa17ad9-04c9-4a91-a24c-050d3b3ca159)
 ![](https://count.getloli.com/get/@valeowoia?theme=rule34)
+[![wakatime](https://wakatime.com/badge/user/faa17ad9-04c9-4a91-a24c-050d3b3ca159.svg)](https://wakatime.com/@faa17ad9-04c9-4a91-a24c-050d3b3ca159)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=valeowoia&show_icons=true)
