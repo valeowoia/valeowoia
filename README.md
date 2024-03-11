@@ -2,7 +2,7 @@
 I'm a Tenji. I'm an embedded developer, backend developer, DevOps, and a cute stray cat████
 
 
-## ![ladno](https://rf0x3d.su/maybe_assets/computer_outline_28.svg) Socials
+## 🌐 Socials
   [![Website](https://img.shields.io/badge/Website-blue?logo=framework&logoColor=white)](https://uwu.waw.pl)
   [![Donate me!](https://img.shields.io/badge/Donate_me-pink?logo=OnlyFans&logoColor=white)](https://uwu.waw.pl/d)
   [![VK](https://img.shields.io/badge/VK-blue?logo=VK&logoColor=white)](https://vk.com/m3anly)
