@@ -9,9 +9,15 @@ I'm a Tenji. I'm an embedded developer, backend developer, DevOps, and a cute st
   [![Instagram](https://rf0x3d.su/maybe_assets/story_outline_28.svg)](https://instagram.com/valeowoia)
   [![Telegram](https://rf0x3d.su/maybe_assets/location_outline_28.svg)](https://t.me/m3anly)
 ## 💻 Tech stack
-![React](https://img.shields.io/badge/React-blue?logo=React) ![HTML5](https://img.shields.io/badge/HTML5-red?logo=HTML5&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-black?logo=JavaScript) ![TS](https://img.shields.io/badge/TypeScript-blue?logo=TypeScript&logoColor=white) ![Markdown](https://img.shields.io/badge/MarkDown-black?logo=Markdown&logoColor=white) ![Node](https://img.shields.io/badge/Node-green?logo=Node.JS&logoColor=white)
+![React](https://img.shields.io/badge/React-blue?logo=React) ![HTML5](https://img.shields.io/badge/HTML5-red?logo=HTML5&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-black?logo=JavaScript) ![TS](https://img.shields.io/badge/TypeScript-blue?logo=TypeScript&logoColor=white) ![Markdown](https://img.shields.io/badge/MarkDown-black?logo=Markdown&logoColor=white) ![Node](https://img.shields.io/badge/Node-green?logo=Node.JS&logoColor=white) ![C](https://img.shields.io/badge/C_(lang)-blue?logo=C&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-red?logo=C%2B%2B&logoColor=white)
 
-![Express](https://img.shields.io/badge/Express-gray?logo=Express&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-black?logo=NPM&logoColor=white) ![Nix](https://img.shields.io/badge/Nix-blue?logo=NixOS&logoColor=white) 
+
+
+![Express](https://img.shields.io/badge/Express-gray?logo=Express&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-black?logo=NPM&logoColor=white) ![Nix](https://img.shields.io/badge/Nix-blue?logo=NixOS&logoColor=white) ![Weston-wayland](https://img.shields.io/badge/Weston-black?logo=wayland)
+
+
+![Figma](https://img.shields.io/badge/Figma-purple?logo=figma&logoColor=white) ![MTCRE](https://img.shields.io/badge/MTCRE-red?logo=mikrotik&logoColor=white)
+
 
 ## 🏆 GitHub badges
 ![](https://github-profile-trophy.vercel.app/?username=valeowoia&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
