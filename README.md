@@ -5,7 +5,7 @@ I'm a Tenji. I'm an embedded developer, backend developer, DevOps, and a cute st
 ## 🌐 Socials
   [![Website](https://img.shields.io/badge/Website-blue?style=flat-square&logo=framework&logoColor=white)](https://uwu.waw.pl)
   [![Donate me!](https://img.shields.io/badge/Donate_me-pink?style=flat-square&logo=OnlyFans&logoColor=black)](https://uwu.waw.pl/d)
-  [![VK](https://img.shields.io/badge/VK-blue?style=flat-square&logo=VK&logoColor=white)](https://vk.com/m3anly)
+  [![Matrix](https://img.shields.io/badge/Matrix-blue?style=flat-square&logo=matrix&logoColor=white)](https://matrix.to/#/@meanly:matrix.org)
   [![Instagram](https://img.shields.io/badge/Instagram-fc03c2?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/valeowoia)
   [![Telegram](https://img.shields.io/badge/Telegram-lightblue?style=flat-square&logo=telegram&logoColor=black)](https://t.me/m3anly)
   ## 💻 Tech stack
