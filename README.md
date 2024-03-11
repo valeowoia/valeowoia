@@ -22,7 +22,7 @@ I'm a Tenji. I'm an embedded developer, backend developer, DevOps, and a cute st
 ## 🏆 GitHub badges
 ![](https://github-profile-trophy.vercel.app/?username=valeowoia&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
-## ![ladno](https://rf0x3d.su/maybe_assets/statistics_outline_28.svg) Some Stats
+## 📊 Some Stats
 
 ![ladno](https://count.getloli.com/get/@valeowoia?theme=rule34) ![Stats](https://github-readme-stats.vercel.app/api?username=valeowoia&show_icons=true)
 ### WakaTime
