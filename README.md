@@ -1,5 +1,5 @@
 ## 👋 Hi there!
-I'm a Tenji. I'm an embedded developer, backend developer, DevOps, and a cute stray cat████
+I'm a Tenji. I'm an sociophobic web (generally backend) and embedded developer, part-time DevOps (or server maid).
 
 
 ## 🌐 Socials
