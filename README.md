@@ -3,7 +3,9 @@
 
 ## 📊 Some Stats
 
-![ladno](https://count.getloli.com/get/@valeowoia?theme=rule34) ![Stats](https://github-readme-stats.vercel.app/api?username=valeowoia&show_icons=true)
+![ladno](https://count.getloli.com/get/@valeowoia?theme=rule34)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=valeowoia&show_icons=true)
 ### WakaTime
 | Project | Time |
 | ------------- | ------------- |
