@@ -1,6 +1,5 @@
 ## 👋 Hi there!
 ![](https://github-profile-trophy.vercel.app/?username=valeowoia&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
-
 ## 📊 Some Stats
 
 ![ladno](https://count.getloli.com/get/@valeowoia?theme=rule34)
